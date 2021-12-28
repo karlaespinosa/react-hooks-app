@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.item > p {
+  margin: 0 20px 0 0;
+}
+
+.toggle {
+  text-decoration: line-through;
+}
